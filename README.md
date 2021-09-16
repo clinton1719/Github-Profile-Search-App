@@ -1,6 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Github Profile Search and View App
 
-## Available Scripts
+Hi ! I made this project to learn about ReactJS and Hooks. I also implemented context API and tons of refactoring ! :) 
+
+It is available here - [Click Here !](https://githubprofilesearchandview.netlify.app/)
+
+## How to run in your local ? 
 
 In the project directory, you can run:
 
@@ -8,7 +12,7 @@ In the project directory, you can run:
 
 ### 2. `npm start`
 
-Launches the test runner in the interactive watch mode.\
+You will see the website in http://localhost:3000
 
 
 
