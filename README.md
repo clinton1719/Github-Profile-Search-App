@@ -2,7 +2,7 @@
 
 Hi ! I made this project to learn about ReactJS and Hooks. I also implemented context API and tons of refactoring ! :) 
 
-It is available here - [Click Here !](https://githubprofilesearchandview.netlify.app/){:target="_blank" rel="noopener"}
+It is available here - [Click Here !](https://githubprofilesearchandview.netlify.app/)
 
 ## How to run in your local ? 
 
